@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MinhasfinancasApplication {
 
 	public static void main(String[] args) {
+		// Sobe a aplicacao.
 		SpringApplication.run(MinhasfinancasApplication.class, args);
 	}
 
