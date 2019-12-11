@@ -14,7 +14,6 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.ognavi.minhasfinancas.model.entity.Usuario;
-import com.ognavi.minhasfinancas.model.repository.UsuarioRepository;
 
 @RunWith(SpringRunner.class)
 @ActiveProfiles("test")
